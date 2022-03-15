@@ -34,4 +34,4 @@
 
 ### 🔭 2022 learning path
 
-- Pyhton
+- Python
