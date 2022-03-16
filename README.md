@@ -1,5 +1,3 @@
- <img src="https://avatars.githubusercontent.com/u/93951206?v=4" width="0"  height="0" alt="profile picture">
-
 # Junior Software Developer
 
 ### 🔥 Deep passion
