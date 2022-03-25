@@ -6,7 +6,7 @@
 - Technology
 - UX Design
 - Music
-- Cooking
+- Food
 
 ### ℹ️ More info
 
