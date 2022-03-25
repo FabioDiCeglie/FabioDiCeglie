@@ -17,7 +17,7 @@
 
 - Languages: Typescript & Javascript (& HTML & CSS)
 - Frontend Libraries: React - Redux - Axios - Material UI - React Native
-- Backend: Node & Express % SQL
+- Backend: Node & Express & SQL
 - Database: Postgres
 
 <p align="center">
