@@ -3,7 +3,6 @@
 ### 🔥 Deep passion
 
 - Learning
-- Never being in my comfort zone
 - Technology
 - UX Design
 - Music
