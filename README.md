@@ -1,5 +1,17 @@
 # Junior Software Developer
 
+### 👨‍💻 About me
+
+Hello I’m Fabio,
+I’m here to make people happy, one line of code at the time.
+
+In my previous life I worked for a double Michelin start restaurant; I loved to see people enjoying the food I made.
+I have also learned what it means to lead a team and to consistently deliver high quality food, with extreme attention to details for very high demanding customers.
+
+In my current life I’m looking to do the same but in digital, because we live in a world where apps can have huge impact on people’s lives.
+
+I’m looking for a project to have a positive impact on.
+
 ### 🔥 Deep passion
 
 - Learning
@@ -32,3 +44,18 @@
 ### 🔭 2022 learning path
 
 - Python
+
+### 👾 Projects 👾
+
+### Sweet Harmony(https://euphonious-khapse-960964.netlify.app/) 👨‍🍳
+
+This app is a place where a user can enjoy his personal chef at home!
+
+In corona time it was really difficult to enjoy an experience in a restaurant, and a lot of chef lost them job because of that.
+
+For this I create an app that resolve that problem, indeed with that you have the opportunity to book you personal chef at home and enjoy an amazing experience!
+
+### Where should I go?(https://superb-cheesecake-edf39a.netlify.app/) 👬👬
+
+Together with two other developers, we created a travel game app that randomly decides your next travel destination.
+
