@@ -10,7 +10,7 @@
 
 ### ℹ️ More info
 
-- [LinkedIn](https://www.linkedin.com/in/fabio-di-ceglie-223190174/)
+- [LinkedIn](https://www.linkedin.com/in/fabio-di-ceglie/)
 
 ### 🤖 Preferred technologies
 
