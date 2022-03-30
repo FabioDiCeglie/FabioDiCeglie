@@ -47,7 +47,7 @@ I’m looking for a project to have a positive impact on.
 
 ### 👾 Projects 👾
 
-### Sweet Harmony(https://euphonious-khapse-960964.netlify.app/) 👨‍🍳
+### [Sweet Harmony](https://euphonious-khapse-960964.netlify.app/) 👨‍🍳
 
 This app is a place where a user can enjoy his personal chef at home!
 
@@ -55,7 +55,7 @@ In corona time it was really difficult to enjoy an experience in a restaurant, a
 
 For this I create an app that resolve that problem, indeed with that you have the opportunity to book you personal chef at home and enjoy an amazing experience!
 
-### Where should I go?(https://superb-cheesecake-edf39a.netlify.app/) 👬👬
+### [Where should I go?](https://superb-cheesecake-edf39a.netlify.app/) 👬👬
 
 Together with two other developers, we created a travel game app that randomly decides your next travel destination.
 
