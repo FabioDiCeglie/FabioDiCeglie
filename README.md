@@ -55,7 +55,12 @@ In corona time it was really difficult to enjoy an experience in a restaurant, a
 
 For this I create an app that resolve that problem, indeed with that you have the opportunity to book you personal chef at home and enjoy an amazing experience!
 
+Login
+As a user: Email: a@a.com Pass: a. 
+As a chef: Email:gordon@gmail.com Pass:gordon1234
+
 ### [Where should I go?](https://superb-cheesecake-edf39a.netlify.app/) 👬👬
 
 Together with two other developers, we created a travel game app that randomly decides your next travel destination.
+Login: Email: a@a.com.  Pass:a
 
