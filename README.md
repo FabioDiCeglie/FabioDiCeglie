@@ -47,7 +47,7 @@ I’m looking for a project to have a positive impact on.
 
 ### 👾 Projects 👾
 
-### [Sweet Harmony](https://euphonious-khapse-960964.netlify.app/) 👨‍🍳
+### [Sweet Harmony](https://sweetharmony.netlify.app/) 👨‍🍳
 
 This app is a place where a user can enjoy his personal chef at home!
 
@@ -59,7 +59,7 @@ Login
 As a user: Email: a@a.com Pass: a. 
 As a chef: Email:gordon@gmail.com Pass:gordon1234
 
-### [Where should I go?](https://superb-cheesecake-edf39a.netlify.app/) 👬👬
+### [Where should I go?](https://whereshouldigo.netlify.app/) 👬👬
 
 Together with two other developers, we created a travel game app that randomly decides your next travel destination.
 
