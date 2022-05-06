@@ -47,6 +47,10 @@ I’m looking for a project to have a positive impact on.
 
 ### 👾 Projects 👾
 
+### [Snake Game](https://snake-game-byfabio.netlify.app/) 🐍
+
+Snake game build it in React! Have fun!
+
 ### [Sweet Harmony](https://sweetharmony.netlify.app/) 👨‍🍳
 
 This app is a place where a user can enjoy his personal chef at home!
