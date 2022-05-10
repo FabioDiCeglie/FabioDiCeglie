@@ -27,8 +27,8 @@ I’m looking for a project to have a positive impact on.
 ### 🤖 Preferred technologies
 
 - Languages: Typescript & Javascript (& HTML & CSS)
-- Frontend Libraries: React - Redux - Axios - Material UI - React Native
-- Backend: Node & Express & SQL
+- Frontend Libraries: React - Redux - Axios - Material UI - React Native - GraphQL - Apollo
+- Backend: Node & Express & SQL & GraphQL
 - Database: Postgres
 
 <p align="center">
