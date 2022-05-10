@@ -28,7 +28,7 @@ I’m looking for a project to have a positive impact on.
 
 - Languages: Typescript & Javascript (& HTML & CSS)
 - Frontend Libraries: React - Redux - Axios - Material UI - React Native - GraphQL - Apollo
-- Backend: Node & Express & SQL & GraphQL
+- Backend: Node & Express & SQL & GraphQL & ElephantSQL
 - Database: Postgres
 
 <p align="center">
