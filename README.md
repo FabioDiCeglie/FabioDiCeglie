@@ -16,8 +16,8 @@ I’m looking for a project to have a positive impact on.
 
 - Coding
 - UX Design
-- Music
-- Food
+- Melodic Music
+- Asian Food
 
 ### ℹ️ More info
 
