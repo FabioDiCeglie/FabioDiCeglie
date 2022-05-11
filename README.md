@@ -69,3 +69,8 @@ Together with two other developers, we created a travel game app that randomly d
 
 Login: Email: a@a.com.  Pass:a
 
+# My GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDiCeglie&layout=compact&show_icons=true&theme=radical)
+
+![](https://github-readme-stats.vercel.app/api?username=FabioDiCeglie&show_icons=true&theme=radical)
