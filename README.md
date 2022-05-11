@@ -14,8 +14,7 @@ I’m looking for a project to have a positive impact on.
 
 ### 🔥 Deep passion
 
-- Learning
-- Technology
+- Coding
 - UX Design
 - Music
 - Food
@@ -68,9 +67,3 @@ As a chef: Email:gordon@gmail.com Pass:gordon1234
 Together with two other developers, we created a travel game app that randomly decides your next travel destination.
 
 Login: Email: a@a.com.  Pass:a
-
-### My GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDiCeglie&layout=compact&show_icons=true&theme=radical)
-
-![](https://github-readme-stats.vercel.app/api?username=FabioDiCeglie&show_icons=true&theme=radical)
