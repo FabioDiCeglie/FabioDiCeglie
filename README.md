@@ -42,6 +42,13 @@ I’m looking for a project to have a positive impact on.
 
 ### 🔭 2022 learning path
 
+- NextJS
+- Apollo Server
+- Mach composer
+- Jest test
+
+### 🔭 2023 learning path
+
 - Python
 
 ### 👾 Projects 👾
