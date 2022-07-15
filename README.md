@@ -29,27 +29,3 @@ In my current life I’m looking to do the same but in digital, because we live 
 ### ℹ️ More info
 
 - [LinkedIn](https://www.linkedin.com/in/fabio-di-ceglie/)
-
-### 👾 Projects 👾
-
-### [Snake Game](https://snake-game-byfabio.netlify.app/) 🐍
-
-Snake game build it in React! Have fun!
-
-### [Sweet Harmony](https://sweetharmony.netlify.app/) 👨‍🍳
-
-This app is a place where a user can enjoy his personal chef at home!
-
-In corona time it was really difficult to enjoy an experience in a restaurant, and a lot of chef lost them job because of that.
-
-For this I create an app that resolve that problem, indeed with that you have the opportunity to book you personal chef at home and enjoy an amazing experience!
-
-Login
-As a user: Email: a@a.com Pass: a. 
-As a chef: Email:gordon@gmail.com Pass:gordon1234
-
-### [Where should I go?](https://whereshouldigo.netlify.app/) 👬👬
-
-Together with two other developers, we created a travel game app that randomly decides your next travel destination.
-
-Login: Email: a@a.com.  Pass:a
