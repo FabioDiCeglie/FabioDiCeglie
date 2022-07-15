@@ -10,25 +10,11 @@ I have also learned what it means to lead a team and to consistently deliver hig
 
 In my current life I’m looking to do the same but in digital, because we live in a world where apps can have huge impact on people’s lives.
 
-I’m looking for a project to have a positive impact on.
+### 🤖 Technologies
 
-### 🔥 Deep passion
-
-- Coding
-- UX Design
-- Melodic Music
-- Asian Food
-
-### ℹ️ More info
-
-- [LinkedIn](https://www.linkedin.com/in/fabio-di-ceglie/)
-
-### 🤖 Preferred technologies
-
-- Languages: Typescript & Javascript (& HTML & CSS)
-- Frontend Libraries: React - Redux - Axios - Material UI - React Native - GraphQL - Apollo
-- Backend: Node & Express & SQL & GraphQL & ElephantSQL
-- Database: Postgres
+- Languages: Typescript/Javascript
+- Frontend Libraries: React - NextJs - Redux - Material UI - React Native - GraphQL - ApolloClient
+- Backend: Node - GraphQl - Express - SQL - GraphQL - ElephantSQL - MongoDb - ApolloServer
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/31222514/149813755-3f74a208-1e4c-4d81-b848-1d4f1a18b969.png" width="8%" alt="React logo">
@@ -40,16 +26,9 @@ I’m looking for a project to have a positive impact on.
   <img src="https://user-images.githubusercontent.com/31222514/155521312-96e008ba-1d5e-409f-aaec-ca229ca275c6.jpeg" width="8%" alt="Postgres logo">
 </p>
 
-### 🔭 2022 learning path
+### ℹ️ More info
 
-- NextJS
-- Apollo Server
-- Mach composer
-- Jest test
-
-### 🔭 2023 learning path
-
-- Python
+- [LinkedIn](https://www.linkedin.com/in/fabio-di-ceglie/)
 
 ### 👾 Projects 👾
 
