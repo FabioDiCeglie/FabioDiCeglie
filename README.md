@@ -13,8 +13,8 @@ In my current life I’m looking to do the same but in digital, because we live 
 ### 🤖 Technologies
 
 - Languages: Typescript/Javascript - Swift
-- Frontend Libraries: React - NextJs - Redux - Material UI - React Native - GraphQL - ApolloClient
-- Backend: Node - GraphQl - Express - SQL - GraphQL - ElephantSQL - MongoDb - ApolloServer
+- Frontend Libraries: React/NextJs - Redux - Material UI - GraphQL - ApolloClient - React Native - SwiftUI
+- Backend: NodeJS - GraphQL - SQL - MongoDb - ApolloServer - Express
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/31222514/149813755-3f74a208-1e4c-4d81-b848-1d4f1a18b969.png" width="8%" alt="React logo">
