@@ -12,8 +12,8 @@ In my current life I’m looking to do the same but in digital, because we live 
 
 ### 🤖 Technologies
 
-- Languages: Typescript/Javascript - Swift
-- Frontend Libraries: React/NextJs - Redux - Material UI - GraphQL - ApolloClient - React Native - SwiftUI
+- Languages: Typescript/Javascript
+- Frontend Libraries: React - NextJs - Redux - Material UI - GraphQL - ApolloClient - React Native - SwiftUI - Angular
 - Backend: NodeJS - GraphQL - SQL - MongoDb - ApolloServer - Express
 
 <p align="center">
