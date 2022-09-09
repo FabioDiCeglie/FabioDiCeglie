@@ -28,4 +28,6 @@ In my current life I’m looking to do the same but in digital, because we live 
 
 ### ℹ️ More info
 
+[![Fabio GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioDiCeglie)](https://github.com/anuraghazra/github-readme-stats)
+
 - [LinkedIn](https://www.linkedin.com/in/fabio-di-ceglie/)
