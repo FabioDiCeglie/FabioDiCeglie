@@ -30,6 +30,3 @@ In my current life I’m looking to do the same but in digital, because we live 
 
 - [LinkedIn](https://www.linkedin.com/in/fabio-di-ceglie/)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDiCeglie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
