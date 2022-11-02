@@ -19,7 +19,7 @@ In my current life I’m looking to do the same but in digital, because we live 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/31222514/149813300-65804694-d3ea-4e31-955d-dbc47229a82d.png" width="8%" alt="Typescript logo">
   <img src="https://user-images.githubusercontent.com/31222514/149812547-405716a0-b974-4da4-b749-f2b4a8adc1d8.png" width="8%" alt="Javascript logo">
-  <img src="https://miro.medium.com/max/1000/1*htbUdWgFQ3a94PMEvBr_hQ.png" width="8%" alt="NextJS">
+  <img src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png" width="8%" alt="NextJS">
   <img src="https://user-images.githubusercontent.com/31222514/149813755-3f74a208-1e4c-4d81-b848-1d4f1a18b969.png" width="8%" alt="React logo">
    <img src="https://factbranch.com/media/apps/icons/graphql.png" width="8%" alt="GraphQl logo">
   <img src="https://qph.cf2.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc" width="8%" alt="Python">
