@@ -2,8 +2,10 @@
 
 ### 👨‍💻 About me
 
-Hello I’m Fabio, 
+Hello I’m Fabio,
+
 I’m here to make people happy, one line of code at a time. 
+
 In my previous life I worked for a double Michelin star restaurant; I loved to see people enjoying the food I made. 
 
 During this time I also learned what it means to lead a team and to consistently deliver high quality food, with extreme attention to details for very high demanding customers. 
