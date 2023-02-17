@@ -14,6 +14,11 @@ In my current life I’m looking to do the same but digitally, because we live i
 
 ### 🤖 Technologies
 
+| Name     | Character |
+| ---      | ---       |
+| Frontend | `         |
+| Backend  | ciao       |
+
 - Languages: Typescript/Javascript - Python
 - Frontend Libraries: React - NextJs - Redux - Material UI - GraphQL - ApolloClient - React Native - Angular - Sass - SwiftUI - Recoil
 - Backend: NodeJS - GraphQL - SQL - MongoDb - ApolloServer - Express
