@@ -1,13 +1,14 @@
-# 👨‍💻 About me
+# 👨‍💻 Software Engineer
 
-Hi I’m Fabio,
+I’m Fabio, 
+I’m a software engineer here to make people happy, one line of code at a time. 
 
-I’m here to make people happy, one line of code at a time. 
-In my previous life I worked for a double Michelin star restaurant; I loved to see people enjoying the food I made. 
+In “my previous life”, I worked as a chef including Michelin star restaurants, where I learned to lead teams and deliver high-quality results with meticulous attention to detail for very high demanding customers. 
 
-During this time I also learned what it means to lead a team and to consistently deliver high quality food, with extreme attention to details for very high demanding customers. 
+Now, I bring the same passion to the digital world, specializing in Web Engineering, AI and Cloud Engineering. 
 
-In my current life I’m looking to do the same but digitally, because we live in a world where apps can have a huge impact on people’s lives. 
+I am self-taught, and to consolidate my skills I attended multiple specializations around Cloud Platforms, Databases and UX Design. I strongly believe in value-driven and Customer-centric Design approach that prioritizes customer satisfaction while aligning with strategic business goals.
+
 <hr />
 
 <p><a href="https://www.linkedin.com/in/fabio-di-ceglie/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
