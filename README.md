@@ -1,5 +1,3 @@
-# 👨‍💻 Software Engineer
-
 I’m Fabio, 
 I’m a software engineer here to make people happy, one line of code at a time. 
 
