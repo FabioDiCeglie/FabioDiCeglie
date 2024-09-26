@@ -1,3 +1,5 @@
+Hey 👋
+
 I’m Fabio, I’m a software engineer here to make people happy, one line of code at a time. 
 
 In “my previous life”, I worked as a chef  including Michelin star restaurants, where I learned to lead teams and deliver high-quality results with meticulous attention to detail for very high demanding customers. 
