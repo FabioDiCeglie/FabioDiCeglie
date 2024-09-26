@@ -1,11 +1,9 @@
-I’m Fabio, 
-I’m a software engineer here to make people happy, one line of code at a time. 
+I’m Fabio, I’m a software engineer here to make people happy, one line of code at a time. 
 
-In “my previous life”, I worked as a chef including Michelin star restaurants, where I learned to lead teams and deliver high-quality results with meticulous attention to detail for very high demanding customers. 
+In “my previous life”, I worked as a chef  including Michelin star restaurants, where I learned to lead teams and deliver high-quality results with meticulous attention to detail for very high demanding customers. 
 
-Now, I bring the same passion to the digital world, specializing in Web Engineering, AI and Cloud Engineering. 
-
-I am self-taught, and to consolidate my skills I attended multiple specializations around Cloud Platforms, Databases and UX Design. I strongly believe in value-driven and Customer-centric Design approach that prioritizes customer satisfaction while aligning with strategic business goals.
+In my current life, I bring the same passion to the digital world, specializing in Web Engineering, AI and Cloud Engineering. 
+To consolidate my skills I attended multiple specializations around Cloud Platforms, Databases and UX Design. I strongly believe in value-driven and Customer-centric Design approach that prioritizes customer satisfaction while aligning with strategic business goals.
 
 <hr />
 
