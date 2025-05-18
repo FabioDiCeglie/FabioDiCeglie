@@ -13,10 +13,9 @@ To consolidate my skills I attended multiple specializations around Cloud Platfo
   <a href="https://www.fabiodiceglie.com" target="_blank">
     <img alt="Fabio Di Ceglie Portfolio" src="https://img.shields.io/badge/Explore%20my%20website-blue?&style=for-the-badge"/>
   </a>
-  &nbsp;&nbsp;
-  &nbsp;&nbsp;
+</p>
+<p>
   <a href="https://www.linkedin.com/in/fabio-di-ceglie/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
